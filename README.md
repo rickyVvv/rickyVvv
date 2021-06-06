@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh Virlley
-- 👀 I’m proficent in Game Development,C++,Java, C#, and Python! 
+- 👀 I’m currently working on an app using swift!
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me rvirlley2@gmail.com
 
