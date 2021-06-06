@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh
-- 👀 I’m interested in Game Development, and AWS!
+- 👀 I’m proficent in Game Development,C++,Java, C#, and python! 
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me rvirlley2@gmail.com
 
