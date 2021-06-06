@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Virlley
-- 👀 I’m currently working on an app using swift!
-- 🌱 I’m currently learning Swift
+- 👀 I’m currently working on an app using Xcode!
+- 🌱 I’m currently learning Swift!
 - 📫 How to reach me rvirlley2@gmail.com
 
 <!---
